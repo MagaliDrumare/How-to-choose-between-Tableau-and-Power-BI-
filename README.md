@@ -1,7 +1,7 @@
-``` 
-Tableau Software vs Power BI 
 
-# Licence Costs : Power BI 
+# Tableau Software vs Power BI 
+
+## Licence Costs : Power BI 
 https://youtu.be/pA0Af4cgQr0
 
 screen shot : Licence Cost 
@@ -11,10 +11,10 @@ screen shot : Licence Cost
 -Poorly selected BI software is a major culprit of the hight total cost ownership. 
 
 Management Issue : 
--> What's matter is the right software for the right needs? 
+* -> What's matter is the right software for the right needs? 
 
 
-# Hight Level Comparison : Tableau
+## Hight Level Comparison : Tableau
 https://youtu.be/2GWJh0CSmhA
 
 -Licence Cost  Desktop and web/mobile : Power BI 
