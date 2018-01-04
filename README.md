@@ -2,7 +2,6 @@
 Tableau Software vs Power BI 
 
 # Licence Costs : Power BI 
-
 https://youtu.be/pA0Af4cgQr0
 
 screen shot : Licence Cost 
@@ -16,7 +15,6 @@ Management Issue :
 
 
 # Hight Level Comparison : Tableau
-
 https://youtu.be/2GWJh0CSmhA
 
 -Licence Cost  Desktop and web/mobile : Power BI 
