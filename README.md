@@ -13,7 +13,7 @@ Management Issue :
 * -> What's matter is the right software for the right needs? 
 
 
-## Hight Level Comparison : Tableau
+## Hight Level Comparison : 
 https://youtu.be/2GWJh0CSmhA
 
 - Licence Cost  Desktop and web/mobile : Power BI 
@@ -25,7 +25,7 @@ https://youtu.be/2GWJh0CSmhA
 
 Management Issue : 
 * -> Cost driving decision : choose Power BI 
-* -> Performances / UX driving decision : choose Tableau 
+* -> Performances / UXTableau driving decision : choose Tableau 
 
 
 ## Custom Visuals : Power BI 
@@ -66,9 +66,9 @@ Management Issue :
 https://youtu.be/d1MGy-Aqkeo
 
 - Tableau is easier to use to quickly answer a business question : 
-	-Sales by Salesperson : 4 seconds in Tableau / 4 seconds in Power BI.  
-	-Sales  and CP% by Salesperson : 5 seconds in Tableau / 17 seconds in Power BI.  
-	-who's meeting the 50% GP goal : 16 seconds in Tableau / 43 seconds in Power BI. 
+	- Sales by Salesperson : 4 seconds in Tableau / 4 seconds in Power BI.  
+	- Sales  and CP% by Salesperson : 5 seconds in Tableau / 17 seconds in Power BI.  
+	- who's meeting the 50% GP goal : 16 seconds in Tableau / 43 seconds in Power BI. 
 - Regular Dashboard : 4 min 30 in Tableau / 7 min 25s in Power BI. 
 
 Management Issue : 
@@ -117,7 +117,7 @@ https://youtu.be/kuYQifjdolM
 https://youtu.be/6Kg3jfb2WmY
 
 - Tableau survey on 3-year Total Cost of Ownership (TCO)
-Tableau : $20.9M vs Power BI $26.9M. 
+- Tableau : $20.9M vs Power BI $26.9M. 
 
 Management Issue : 
 * -> Check the needs on BI. 
