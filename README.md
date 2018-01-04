@@ -1,4 +1,4 @@
-``` python
+``` 
 Tableau Software vs Power BI 
 
 # Licence Costs : Power BI 
