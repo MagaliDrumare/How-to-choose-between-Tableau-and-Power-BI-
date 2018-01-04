@@ -1,8 +1,8 @@
 ``` python
 Tableau Software vs Power BI 
 
-Licence Costs : Power BI 
-------------------------
+# Licence Costs : Power BI 
+
 https://youtu.be/pA0Af4cgQr0
 
 screen shot : Licence Cost 
@@ -15,8 +15,8 @@ Management Issue :
 -> What's matter is the right software for the right needs? 
 
 
-Hight Level Comparison : Tableau
----------------------------------
+# Hight Level Comparison : Tableau
+
 https://youtu.be/2GWJh0CSmhA
 
 -Licence Cost  Desktop and web/mobile : Power BI 
@@ -31,8 +31,7 @@ Management Issue :
 -> Performances / UX driving decision : choose Tableau 
 
 
-Custom Visuals : Power BI 
--------------------------------
+# Custom Visuals : Power BI 
 https://youtu.be/Af1cdaSpF70
 
 -Built-in Visualization pannels equivalent. 
@@ -45,8 +44,7 @@ Management Issue :
 -> Do the end-users need Customs Visuals? Yes! : choose Power BI. 
 
 
-Scatter Plots : Tableau 
-------------------------
+# Scatter Plots : Tableau 
 https://youtu.be/nrtOTzucOZ4
 
 -Power BI can only show 10K data points. 
@@ -56,8 +54,7 @@ Management Issue :
 -> If you use for your business 'Scatter Plot with a large amount of data' : choose Tableau.  
 
 
-Deployment Options (Private Cloud Solution) : Tableau 
-------------------------------------------------------
+# Deployment Options (Private Cloud Solution) : Tableau 
 https://youtu.be/Bf8HykqPEaw
 
 -For public cloud deployments, both Power BI and Tableau have very comprehensive frameworks. 
@@ -68,10 +65,8 @@ Management Issue :
 -> If your long-term needs also require private cloud, or on-prem, or hybrid, then Tableau can easily cover them all, while Power BI is catching up : choose Tableau. 
 
 
-Quick business Analysis / Labor savings : Tableau 
----------------------------------------
+# Quick business Analysis / Labor savings : Tableau 
 https://youtu.be/d1MGy-Aqkeo
-
 
 -Tableau is easier to use to quickly answer a business question : 
 	-Sales by Salesperson : 4 seconds in Tableau / 4 seconds in Power BI.  
@@ -83,8 +78,7 @@ Management Issue :
 -> For a better productivity and labor savings (25%) : choose Tableau. 
 
 
-Data modeling Benchmarks : Tableau 
-----------------------------------
+# Data modeling Benchmarks : Tableau 
 https://youtu.be/4maLVtgAQiw
 
 -Data extraction (29M records) : Tableau is 24% faster. 
@@ -100,8 +94,7 @@ Management Issue :
 -> For a better data extraction, upload and dowload options : choose Tableau.
 
 
-Natural Language Query : Power BI 
----------------------------------
+# Natural Language Query : Power BI 
 https://youtu.be/kbeGIKu0Jxo
  
 -Tableau adquire CleanGraph in 2017 (only a demo). 
@@ -114,15 +107,13 @@ Management Issue :
 ->The users need to learn how to use the functionnality. 
 
 
-Data point limits for viewing & exporting : Tableau
-----------------------------------------------------
+# Data point limits for viewing & exporting : Tableau
 https://youtu.be/SmpYzRQhtUg
 
 -If your team works with reports with thousands of data points, Power BI might run into limitations when viewing and exporting data. (scroll problems to be solve by Microsoft)
 
 
-Total Cost ownership/ Maximazing the Value of BI : Tableau 
------------------------------------------------------------
+# Total Cost ownership/ Maximazing the Value of BI : Tableau 
 https://youtu.be/kuYQifjdolM
 https://youtu.be/6Kg3jfb2WmY
 * two surveys made by Tableau and DataSelf BI
@@ -136,13 +127,13 @@ Management Issue :
 -> Long term investment mainly Labor investment. 
 
 
-Power BI vs Tableau Final recommandation : 
+# Power BI vs Tableau Final recommandation : 
 
 Management Issue : 
 -> Data visualization is the prime focus of the analytics that your business seeks to run. If this is the case, Tableau is the right choice. 
 -> But if your business is looking for a platform that would provide broad analytic capabilities in terms of predictive modelling, optimization, and reporting, the Power BI suite would be a much better choice. 
 
-Few Tableau Clients : 
+# Few Tableau Clients : 
 Amazon.com
 SpaceX
 American Airlines
