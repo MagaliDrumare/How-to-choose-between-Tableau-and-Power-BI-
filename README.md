@@ -4,10 +4,10 @@
 ## Licence Costs : Power BI 
 https://youtu.be/pA0Af4cgQr0
 
--Desktop and web/mobile cost for Power BI is lower.  
--The server solution of Power BI is not free : 5K vs 8K for Tableau. 
--For every $1 invested in BI Software, $2 to $35 in labor over 3 years. 
--Poorly selected BI software is a major culprit of the hight total cost ownership. 
+- Desktop and web/mobile cost for Power BI is lower.  
+- The server solution of Power BI is not free : 5K vs 8K for Tableau. 
+- For every $1 invested in BI Software, $2 to $35 in labor over 3 years. 
+- Poorly selected BI software is a major culprit of the hight total cost ownership. 
 
 Management Issue : 
 * -> What's matter is the right software for the right needs? 
